@@ -1,7 +1,7 @@
-# HTML规范
+# HTML规范
 
 ## 语法
-- 文档类型使用HTML5规范，doctype大写。
+- 文档类型使用HTML5规范，doctype大写。
 - 在html标签上设置正确的lang属性。
 - 使用IE Edge兼容模式。
 - 使用无BOM(Byte Order Mark)的UTF-8编码，作为head标签第一个子元素。
